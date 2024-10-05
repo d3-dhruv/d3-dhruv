@@ -3,20 +3,11 @@
 - 🌱 I’m currently learning Terraform and DevOps tools.
 - 💞️ I’m looking to collaborate on DevOps project.
 - 💬 Ask me anything about **tech 🧑‍💻**.
-- 📫 How to reach me ...
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
-
-- ![Alt Text](dhruv_cover.png)
-- 👨‍💻  A **Full Stack Engineer**, a **learner**, and a **Competitive Coder**.
-- 🔭 I’m currently working on an ML/AI Project.
-- 🌱 I’m currently learning **microservices architecture and DevOps**.
-- 👯 I’m looking to collaborate on **end to end Full Stack Projects**.
-- 💬 Ask me anything about **tech 🧑‍💻**.
-- 😄 Pronouns: **He/His**.
-- 📃 [My Resume](resume.pdf)
-- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
+- 😄 Pronouns: **He/His**.
+- ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.
+- - 📃 [My Resume](resume.pdf)
+
 
 
 ## 🌐Socials
