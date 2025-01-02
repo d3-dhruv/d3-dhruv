@@ -6,7 +6,7 @@
 - 📫 How to reach me: <strong>(Click the badge to view my profiles!)</strong>  
 - 😄 Pronouns: **He/His**.
 - ⚡ Fun fact: Debugging is like being the detective in a crime movie where you are also the murderer.
-- - 📃 [My Resume](Desai,Dhruv.pdf)
+=
 - - Connect on my Primary Repo [@dhruv1214](https://github.com/dhruv1214)
 
 
