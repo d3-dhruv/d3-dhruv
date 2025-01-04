@@ -48,10 +48,10 @@
 # 📊GitHub Stats :
 <div align="center">
 
-  ![](https://github-readme-stats.vercel.app/api?username=dhruv1214&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv1214&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=d3-dhruv&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d3-dhruv&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv1214&theme=chartreuse_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d3-dhruv&theme=chartreuse_dark)
  
 </div>
 ## Stats📊 and Top Languages🧑‍💻
