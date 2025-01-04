@@ -54,7 +54,14 @@
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruv1214&theme=chartreuse_dark)
  
 </div>
+## Stats📊 and Top Languages🧑‍💻
 
+<div align="center">
+
+| ![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=d3-dhruv&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3-dhruv&theme=transparent)]|
+|---|---|
+
+</div>
 ## 🏆GitHub Trophies
 
 <div align="center">
