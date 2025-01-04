@@ -29,6 +29,21 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 [![AWS DevOps](https://img.shields.io/badge/AWS_DevOps-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/devops/)
 
+### Cloud Platforms
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
+### Security & Monitoring
+
+[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)](https://snyk.io/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)](https://www.sonarqube.org/)
+[![Cert Manager](https://img.shields.io/badge/Cert_Manager-326CE5?style=for-the-badge&logoColor=white)](https://cert-manager.io/)
+[![Kube-bench](https://img.shields.io/badge/Kube--bench-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/aquasecurity/kube-bench)
+[![Kube-hunter](https://img.shields.io/badge/Kube--hunter-FFA500?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/aquasecurity/kube-hunter)
 
 # 📊GitHub Stats :
 <div align="center">
