@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @d3-dhruv
-- 👀 I’m interested in DevOps, Cloud Computing.
+- 👀 I’m interested in DevOps, Cloud Computing, Kubernetes.
 - 🌱 I’m currently learning Terraform and DevOps tools.
 - 💞️ I’m looking to collaborate on DevOps project.
 - 💬 Ask me anything about **tech 🧑‍💻**.
